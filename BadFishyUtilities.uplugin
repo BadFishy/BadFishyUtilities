@@ -19,6 +19,11 @@
 			"Name": "BadFishyUtilities",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "BadFishyUtilitiesEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
 		}
 	]
 }
